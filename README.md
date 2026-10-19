@@ -40,43 +40,55 @@ namespace AikoGx {
 
 ## `02` / projects
 
-```text
-$ aikogx projects --tree
+<table>
+<tr>
+<td width="50%" valign="top">
 
-workspace/
-├── DungeonBlueprintForge     Unreal Engine · Creator tools
-└── ChaosAmongRealms          Fantasy action RPG · Reborn
+<sub>01 &nbsp; / &nbsp; UNREAL ENGINE TOOL</sub>
+
+### Dungeon Blueprint Forge
+
+**Modular worlds, built from a seed.**
+
+A dungeon generation plugin for Unreal Engine, controlled through Blueprints.
+
+```cpp
+GenerateDungeon(seed);
 ```
 
-```yaml
-# > inspect DungeonBlueprintForge
-project:  Dungeon Blueprint Forge
-tagline:  Build worlds. Keep the seed.
-type:     Unreal Engine plugin
-engine:   UE 5.8.3
+<sub>Illustrative API-style notation.</sub>
 
-features:
-  - Modular dungeon generation
-  - Seed-based reproducible layouts
-  - Blueprint-controlled workflow
-  - Prebuilt room support
+**Inside the toolbox**
+- Reproducible layouts
+- Modular & prebuilt rooms
+- Blueprint-driven generation
 
-public:   Documentation
+<code>UE 5.8.3</code> <code>PUBLIC DOCS</code>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>02 &nbsp; / &nbsp; INDEPENDENT GAME</sub>
+
+### Chaos Among Realms
+**Reborn**
+
+A colorful fantasy action RPG from AikoGx Studios.
+
+```cpp
+// A world taking shape.
 ```
 
-```yaml
-# > inspect ChaosAmongRealms
-project:  "Chaos Among Realms: Reborn"
-tagline:  A world taking shape.
-type:     Fantasy action RPG
-status:   In development
+**Inside the world**
+- Fantasy action RPG
+- Independent development
+- Studio news & devlogs
 
-focus:
-  - Independent game development
-  - A colorful fantasy world
+<code>IN DEVELOPMENT</code>
 
-updates:  Studio news and devlogs
-```
+</td>
+</tr>
+</table>
 
 <details>
 <summary><strong><code>// private_workspace</code></strong></summary>
