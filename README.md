@@ -1,45 +1,89 @@
-<!-- AikoGx Studios · Editorial profile · Native Markdown, no image widgets -->
+<!-- AikoGx Studios · Terminal edition · Native text, no image widgets -->
+
+```text
+$ aikogx --about
+
+        _..._                 AIKOGX STUDIOS
+      .'     '.               ─────────────────────────────
+     /   .-''  \              Independent creative studio
+    |   /       |             
+    |   \       |             BUILD    Software & web
+     \   '.___.'              CREATE   Tools & indie games
+      '._   _.'               EXPLORE  Unreal Engine & AI
+         '''                  
+                              Coffee. Code. Imagination.
+```
 
 <div align="center">
 
-# AikoGx Studios
-**Software, creator tools & independent games.**
+**The moon inspires us. Code gives shape to our imagination.**
 
-The moon inspires us. Code gives shape to our imagination.
-
-[Explore the studio ↗](https://aikogx.es/) &nbsp; · &nbsp; [Documentation ↗](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs) &nbsp; · &nbsp; [Support ↗](https://aikogx.es/support/)
+[Website ↗](https://aikogx.es/) &nbsp; / &nbsp; [Projects](#-selected-projects) &nbsp; / &nbsp; [Updates](#-studio-updates) &nbsp; / &nbsp; [Support ↗](https://aikogx.es/support/)
 
 </div>
 
----
+## / hello, world
 
-We combine **engineering and creativity** to build practical software, digital experiences and interactive worlds.
+We are **AikoGx Studios** — an independent studio connecting software development, creator tools and game development.
 
-Our work spans **web development**, **tools for creators**, **Unreal Engine systems** and **indie games**. We also explore AI-assisted workflows and automation.
+From a useful everyday tool to a procedural dungeon or a fantasy world, we build things that bring **engineering and creativity** together.
 
-## Selected work
+## / selected projects
 
-### 01 / Dungeon Blueprint Forge
-<code>UNREAL ENGINE 5.8</code> <code>CREATOR TOOLS</code>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Modular dungeon generation, reproducible by seed and controlled through Blueprints. The current working engine version is **UE 5.8.3**.
+### Dungeon Blueprint Forge
+**Build worlds. Keep the seed.**
 
-[Start with the documentation →](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs) · [Read the development update →](https://aikogx.es/dungeon-generator-backtracking-staged-builds-prebuilt-rooms/)
+<code>UNREAL ENGINE 5.8</code>  
+<code>PROCEDURAL GENERATION</code>
 
-### 02 / Chaos Among Realms: Reborn
-<code>ACTION RPG</code> <code>IN DEVELOPMENT</code>
+A modular dungeon generator controlled through Blueprints, with reproducible layouts and support for prebuilt rooms.
 
-A colorful fantasy action RPG from AikoGx Studios. Follow the development of its world, systems and upcoming builds.
+**Current engine:** UE 5.8.3  
+**Public repository:** documentation
 
-[Latest game devlog →](https://aikogx.es/chaos-among-realms-059-ue58-reworked-abyss/) · [Visit the studio →](https://aikogx.es/)
+[Read the guides →](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs)
 
-## On the workbench
+</td>
+<td width="50%" valign="top">
 
-Our ongoing work includes **Dungeon Blueprint Forge**, **Chaos Among Realms** and the software and workflows that support the studio.
+### Chaos Among Realms: Reborn
+**A world taking shape.**
 
-For dated progress, see the updates below and the public [documentation history](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs/commits).
+<code>FANTASY ACTION RPG</code>  
+<code>IN DEVELOPMENT</code>
 
-## Studio updates
+A colorful independent fantasy game. Follow its development through studio updates and devlogs.
+
+**Focus:** game & world development  
+**Public updates:** on the studio website
+
+[Explore the devlog →](https://aikogx.es/chaos-among-realms-059-ue58-reworked-abyss/)
+
+</td>
+</tr>
+</table>
+
+## / the toolbox
+
+| Games & systems | Software & web | Automation & AI |
+| :--- | :--- | :--- |
+| Unreal Engine · C++ | Websites · Desktop tools | AI-assisted development |
+| Blueprints · Procedural generation | Tools for creators | Workflow automation |
+
+<details>
+<summary><strong>What happens beyond the public repositories?</strong></summary>
+
+Our work also includes private software, internal tools and client projects. This GitHub profile shows the part we share publicly.
+
+We explore AI-assisted workflows as part of the studio's development process. Public updates describe what is ready to share.
+
+</details>
+
+## / studio updates
 
 <!-- START:STUDIO_UPDATES -->
 - **04 Oct 2026** — [Chaos Among Realms 0.0.5.9: UE5.8, a Reworked Abyss and What Comes Next](https://aikogx.es/chaos-among-realms-059-ue58-reworked-abyss/)
@@ -47,29 +91,16 @@ For dated progress, see the updates below and the public [documentation history]
 - **14 Sep 2026** — [Hotfix 0.0.5.8.2: Goodbye to the Ghost “Access Verified” Card](https://aikogx.es/hotfix-0-0-5-8-2-access-verified-card/)
 <!-- END:STUDIO_UPDATES -->
 
-<sub>From the studio's public news feed · refreshed daily by GitHub Actions.</sub>
-
-## Tools & disciplines
-
-**Games & technical systems**  
-<code>Unreal Engine</code> <code>C++</code> <code>Blueprints</code>
-
-**Software & digital experiences**  
-<code>Web development</code> <code>Desktop tools</code> <code>Creator workflows</code>
-
-**Automation & AI**  
-<code>AI-assisted development</code> <code>Workflow automation</code>
-
-<details>
-<summary><strong>Behind the public repositories</strong></summary>
-
-Some of our work is developed for private use, internal tools or client projects. The repositories here represent only part of what we create.
-
-</details>
+<sub>Published news from aikogx.es · daily refresh configured through GitHub Actions.</sub>
 
 ---
 
-**Explore the work. Follow what comes next.**  
-[Repositories](https://github.com/aikogxstudios?tab=repositories) · [Website](https://aikogx.es/) · [Support](https://aikogx.es/support/)
+<div align="center">
 
-<sub>© AikoGx Studios</sub>
+**Useful tools. Imagined worlds. Work in progress.**
+
+[Browse repositories](https://github.com/aikogxstudios?tab=repositories) &nbsp; · &nbsp; [Visit AikoGx](https://aikogx.es/) &nbsp; · &nbsp; [Get support](https://aikogx.es/support/)
+
+<sub>© AikoGx Studios · Built with curiosity.</sub>
+
+</div>
