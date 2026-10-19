@@ -39,9 +39,9 @@ namespace AikoGx {
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-dark.svg?v=calendar-labels" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-light.svg?v=calendar-labels" />
-  <img alt="Animated snake following AikoGx Studios' real GitHub contributions" src="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-dark.svg?v=calendar-labels" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/calendar-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/calendar-light.svg" />
+  <img alt="Animated snake following AikoGx Studios' real GitHub contributions" src="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/calendar-dark.svg" width="100%" />
 </picture>
 
 
