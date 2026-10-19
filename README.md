@@ -1,95 +1,75 @@
-<!-- AikoGx Studios · Native GitHub profile · No image widgets -->
+<!-- AikoGx Studios · Editorial profile · Native Markdown, no image widgets -->
 
 <div align="center">
 
 # AikoGx Studios
-
-### Engineering meets imagination.
+**Software, creator tools & independent games.**
 
 The moon inspires us. Code gives shape to our imagination.
 
-**Independent studio · Creative tools · Indie games**
-
-[Website ↗](https://aikogx.es/) &nbsp; / &nbsp; [Documentation ↗](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs) &nbsp; / &nbsp; [Support ↗](https://aikogx.es/support/)
+[Explore the studio ↗](https://aikogx.es/) &nbsp; · &nbsp; [Documentation ↗](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs) &nbsp; · &nbsp; [Support ↗](https://aikogx.es/support/)
 
 </div>
 
 ---
 
-| BUILD | CREATE | EXPLORE |
-| :---: | :---: | :---: |
-| **Tools & software** | **Games & worlds** | **Web & AI workflows** |
-| Practical technology for everyday work | Independent ideas brought to life | Useful digital experiences |
+We combine **engineering and creativity** to build practical software, digital experiences and interactive worlds.
 
-## Welcome to the studio
+Our work spans **web development**, **tools for creators**, **Unreal Engine systems** and **indie games**. We also explore AI-assisted workflows and automation.
 
-We build **websites**, **desktop and web software**, **tools for creators and developers**, and **Unreal Engine plugins**. We also develop indie games and explore AI-assisted development, distribution and support systems.
+## Selected work
 
-> Useful technology. Accessible experiences. Thoughtfully crafted.
-
-## Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Dungeon Blueprint Forge
-
+### 01 / Dungeon Blueprint Forge
 <code>UNREAL ENGINE 5.8</code> <code>CREATOR TOOLS</code>
 
-A modular, seed-based dungeon generation system for Unreal Engine.
+Modular dungeon generation, reproducible by seed and controlled through Blueprints. The current working engine version is **UE 5.8.3**.
 
-Build procedural layouts with a focus on modularity and reproducible generation.
+[Start with the documentation →](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs) · [Read the development update →](https://aikogx.es/dungeon-generator-backtracking-staged-builds-prebuilt-rooms/)
 
-**[Explore public documentation →](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs)**
-
-</td>
-<td width="50%" valign="top">
-
-### Chaos Among Realms: Reborn
-
+### 02 / Chaos Among Realms: Reborn
 <code>ACTION RPG</code> <code>IN DEVELOPMENT</code>
 
-A colorful fantasy action RPG currently in development.
+A colorful fantasy action RPG from AikoGx Studios. Follow the development of its world, systems and upcoming builds.
 
-An independent game project from AikoGx Studios.
+[Latest game devlog →](https://aikogx.es/chaos-among-realms-059-ue58-reworked-abyss/) · [Visit the studio →](https://aikogx.es/)
 
-**[Discover the studio & updates →](https://aikogx.es/)**
+## On the workbench
 
-</td>
-</tr>
-</table>
+Our ongoing work includes **Dungeon Blueprint Forge**, **Chaos Among Realms** and the software and workflows that support the studio.
 
-## Our creative toolbox
+For dated progress, see the updates below and the public [documentation history](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs/commits).
 
-<code>Unreal Engine</code> &nbsp; <code>C++</code> &nbsp; <code>Blueprints</code> &nbsp; <code>Web development</code> &nbsp; <code>AI-assisted workflows</code>
+## Studio updates
 
-Tools and disciplines behind our work, from technical systems to interactive worlds.
+<!-- START:STUDIO_UPDATES -->
+- **04 Oct 2026** — [Chaos Among Realms 0.0.5.9: UE5.8, a Reworked Abyss and What Comes Next](https://aikogx.es/chaos-among-realms-059-ue58-reworked-abyss/)
+- **23 Sep 2026** — [A More Flexible Dungeon Generator: Backtracking, Staged Builds and Prebuilt Rooms](https://aikogx.es/dungeon-generator-backtracking-staged-builds-prebuilt-rooms/)
+- **14 Sep 2026** — [Hotfix 0.0.5.8.2: Goodbye to the Ghost “Access Verified” Card](https://aikogx.es/hotfix-0-0-5-8-2-access-verified-card/)
+<!-- END:STUDIO_UPDATES -->
 
-## Explore on GitHub
+<sub>From the studio's public news feed · refreshed daily by GitHub Actions.</sub>
 
-| Repositories | Development activity | Conversations |
-| :--- | :--- | :--- |
-| Browse the code and documentation we share. | Follow commits and changes in our public repositories. | Read issues and join project discussions. |
-| **[All repositories →](https://github.com/aikogxstudios?tab=repositories)** | **[Documentation commits →](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs/commits)** | **[Documentation issues →](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs/issues)** |
+## Tools & disciplines
+
+**Games & technical systems**  
+<code>Unreal Engine</code> <code>C++</code> <code>Blueprints</code>
+
+**Software & digital experiences**  
+<code>Web development</code> <code>Desktop tools</code> <code>Creator workflows</code>
+
+**Automation & AI**  
+<code>AI-assisted development</code> <code>Workflow automation</code>
 
 <details>
-<summary><strong>A note about private work</strong></summary>
+<summary><strong>Behind the public repositories</strong></summary>
 
-Some of our projects are built for **private use, internal tools or clients**. Our public repositories show only part of what we create.
+Some of our work is developed for private use, internal tools or client projects. The repositories here represent only part of what we create.
 
 </details>
 
-<!-- Future web portfolio: add only real, approved projects and official URLs. -->
-
 ---
 
-<div align="center">
-
-**Have a look around. Something is always taking shape.**
-
-[Visit AikoGx ↗](https://aikogx.es/) &nbsp; · &nbsp; [Get support ↗](https://aikogx.es/support/)
+**Explore the work. Follow what comes next.**  
+[Repositories](https://github.com/aikogxstudios?tab=repositories) · [Website](https://aikogx.es/) · [Support](https://aikogx.es/support/)
 
 <sub>© AikoGx Studios</sub>
-
-</div>
