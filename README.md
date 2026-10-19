@@ -53,10 +53,8 @@ namespace AikoGx {
 A dungeon generation plugin for Unreal Engine, controlled through Blueprints.
 
 ```cpp
-GenerateDungeon(seed);
+// One seed. Reproducible layouts.
 ```
-
-<sub>Illustrative API-style notation.</sub>
 
 **Inside the toolbox**
 - Reproducible layouts
