@@ -1,0 +1,32 @@
+name: Refresh studio updates
+on:
+  schedule:
+    - cron: '23 7 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/update_news.py
+      - .github/workflows/studio-updates.yml
+permissions:
+  contents: write
+concurrency:
+  group: studio-updates
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Read public studio feed
+        run: python scripts/update_news.py
+      - name: Commit changed news only
+        run: |
+          if git diff --quiet -- README.md; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh public studio updates"
+          git push
