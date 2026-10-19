@@ -31,7 +31,7 @@ def main():
         for day in dates:
             key = (day.year, day.month)
             if key != previous:
-                x = x0 + ((day - dates[0]).days // 7) * pitch
+                x = x0 + (((day - dates[0]).days + 6) // 7) * pitch
                 if x - last_x >= 30:
                     labels.append(f'<text x="{x:g}" y="-10">{months[day.month-1]}</text>')
                     last_x = x
