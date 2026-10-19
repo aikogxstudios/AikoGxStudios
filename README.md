@@ -38,6 +38,16 @@ namespace AikoGx {
 } // Ideas become things you can use, build with, and play.
 ```
 
+### `contributions.snake`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-light.svg" />
+  <img alt="Animated snake following AikoGx Studios' real GitHub contributions" src="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-dark.svg" width="100%" />
+</picture>
+
+<sub>Real GitHub contributions · regenerated daily · violet & cyan.</sub>
+
 ## `02` / projects
 
 ```text
@@ -81,16 +91,6 @@ We explore AI-assisted workflows as part of the studio's development process. Pu
 <!-- END:STUDIO_UPDATES -->
 
 <sub>Latest published articles from aikogx.es/feed/ · refreshed daily. Publication dates are shown above.</sub>
-
-## `04` / contributions.snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-light.svg" />
-  <img alt="Animated snake following AikoGx Studios' real GitHub contributions" src="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-dark.svg" width="100%" />
-</picture>
-
-<sub>Real GitHub contributions · regenerated daily · violet & cyan.</sub>
 
 ---
 
