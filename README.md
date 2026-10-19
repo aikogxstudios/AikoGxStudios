@@ -52,9 +52,7 @@ namespace AikoGx {
 
 A dungeon generation plugin for Unreal Engine, controlled through Blueprints.
 
-```cpp
-// One seed. Reproducible layouts.
-```
+`// Built from a seed.`
 
 **Inside the toolbox**
 - Reproducible layouts
@@ -73,9 +71,7 @@ A dungeon generation plugin for Unreal Engine, controlled through Blueprints.
 
 A colorful fantasy action RPG from AikoGx Studios.
 
-```cpp
-// A world taking shape.
-```
+`// A world taking shape.`
 
 **Inside the world**
 - Fantasy action RPG
