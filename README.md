@@ -44,9 +44,21 @@ namespace AikoGx {
   <img alt="Animated snake following AikoGx Studios' real GitHub contributions" src="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-dark.svg" width="100%" />
 </picture>
 
-<sub>Real GitHub contributions · regenerated daily · violet & cyan.</sub>
+
+
+```cpp
+// Currently building
+// Unreal tools  -> Dungeon Blueprint Forge
+// Indie game    -> Chaos Among Realms: Reborn
+// Experiments   -> Software & AI workflows
+```
 
 ## `02` / projects
+
+<p>
+<img alt="Unreal Engine tool" src="https://img.shields.io/badge/Dungeon_Blueprint_Forge-Unreal_Engine_Tool-7851A9?style=flat-square&amp;logo=unrealengine&amp;logoColor=white" />
+<img alt="Chaos Among Realms in development" src="https://img.shields.io/badge/Chaos_Among_Realms-In_Development-0891B2?style=flat-square" />
+</p>
 
 ```text
 $ aikogx --projects
