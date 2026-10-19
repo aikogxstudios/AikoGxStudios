@@ -92,6 +92,29 @@ We explore AI-assisted workflows as part of the studio's development process. Pu
 
 </details>
 
+
+<!-- WEB_PORTFOLIO: sección preparada, oculta en el perfil.
+Para mostrarla, elimina este comentario de apertura y el de cierre.
+Sustituye los ejemplos por tus proyectos reales.
+Los enlaces son opcionales: añádelos solo cuando quieras publicarlos.
+
+## `03` / web_portfolio
+
+### Nombre de la web
+Descripción breve: para quién se creó y qué resuelve.
+
+`HTML` `CSS` · Añade las tecnologías utilizadas.
+Estado: publicada / en desarrollo.
+
+### Nombre de otra web
+Descripción breve del proyecto.
+
+`HTML` `CSS` · Añade las tecnologías utilizadas.
+Estado: publicada / en desarrollo.
+
+Si activas esta sección, renumera studio_news.rss como 04.
+END WEB_PORTFOLIO -->
+
 ## `03` / studio_news.rss
 
 <!-- START:STUDIO_UPDATES -->
