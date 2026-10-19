@@ -87,7 +87,7 @@ We explore AI-assisted workflows as part of the studio's development process. Pu
 
 </details>
 
-## `03` / changelog.md
+## `03` / studio_news.rss
 
 <!-- START:STUDIO_UPDATES -->
 - **04 Oct 2026** — Chaos Among Realms 0.0.5.9: UE5.8, a Reworked Abyss and What Comes Next
@@ -95,7 +95,7 @@ We explore AI-assisted workflows as part of the studio's development process. Pu
 - **14 Sep 2026** — Hotfix 0.0.5.8.2: Goodbye to the Ghost “Access Verified” Card
 <!-- END:STUDIO_UPDATES -->
 
-<sub>Published news from aikogx.es · daily refresh configured through GitHub Actions.</sub>
+<sub>Latest published articles from aikogx.es/feed/ · refreshed daily. Publication dates are shown above.</sub>
 
 ---
 
