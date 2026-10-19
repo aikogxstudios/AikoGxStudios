@@ -38,6 +38,8 @@ namespace AikoGx {
 } // Ideas become things you can use, build with, and play.
 ```
 
+### `code_activity`
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/calendar-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/calendar-light.svg" />
