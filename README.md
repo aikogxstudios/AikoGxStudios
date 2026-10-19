@@ -3,15 +3,15 @@
 ```text
 $ aikogx --about
 
-        _..._                 AIKOGX STUDIOS
-      .'     '.               ─────────────────────────────
-     /   .-''  \              Independent creative studio
-    |   /       |             
-    |   \       |             BUILD    Software & web
-     \   '.___.'              CREATE   Tools & indie games
-      '._   _.'               EXPLORE  Unreal Engine & AI
-         '''                  
-                              Coffee. Code. Imagination.
+   █▀█  █▀▀  ▀▄▀     AIKOGX STUDIOS
+   █▀█  █▄█  █ █     ─────────────────────────────
+                     Independent creative studio
+
+   BUILD             Software & web
+   CREATE            Tools & indie games
+   EXPLORE           Unreal Engine & AI
+
+   > Coffee. Code. Imagination.
 ```
 
 <div align="center">
