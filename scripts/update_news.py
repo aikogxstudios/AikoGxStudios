@@ -24,7 +24,7 @@ def main():
         entries.append((date, title, link))
     if not entries:
         raise RuntimeError("No valid public news; README preserved")
-    lines = [f"- **{date.strftime('%d %b %Y')}** — [{title}]({link})"
+    lines = [f"- **{date.strftime('%d %b %Y')}** — {title}"
              for date, title, link in sorted(entries, reverse=True)[:3]]
     path = Path("README.md")
     original = path.read_text(encoding="utf-8")
