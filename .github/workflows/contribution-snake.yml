@@ -1,0 +1,39 @@
+name: Generate contribution snake
+on:
+  schedule:
+    - cron: '41 7 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/contribution-snake.yml
+permissions:
+  contents: write
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate violet and cyan SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: aikogxstudios
+          outputs: |
+            /tmp/aikogx-snake/snake-dark.svg?color_snake=#67e8f9&color_dots=#161b22,#392651,#68449a,#a678dc,#d3b3ff
+            /tmp/aikogx-snake/snake-light.svg?color_snake=#0891b2&color_dots=#ebedf0,#e5d5fa,#c5a0e8,#9965cb,#663399
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Save generated animation
+        run: |
+          git pull --ff-only
+          mkdir -p assets/contributions
+          cp /tmp/aikogx-snake/*.svg assets/contributions/
+          git add assets/contributions/
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh animated contribution snake"
+          git push
