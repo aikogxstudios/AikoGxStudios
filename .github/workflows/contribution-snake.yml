@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - .github/workflows/contribution-snake.yml
+      - scripts/label_snake.py
 permissions:
   contents: write
 concurrency:
@@ -26,6 +27,8 @@ jobs:
             /tmp/aikogx-snake/snake-light.svg?color_snake=#0891b2&color_dots=#ebedf0,#e5d5fa,#c5a0e8,#9965cb,#663399
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Add calendar labels
+        run: python3 scripts/label_snake.py
       - name: Save generated animation
         run: |
           git pull --ff-only
