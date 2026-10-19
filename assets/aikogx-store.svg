@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="315" viewBox="0 0 760 315">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1120"/><stop offset=".7" stop-color="#1B142A"/><stop offset="1" stop-color="#2A1539"/></linearGradient><radialGradient id="glow"><stop stop-color="#EF6CBF" stop-opacity=".3"/><stop offset="1" stop-color="#EF6CBF" stop-opacity="0"/></radialGradient></defs>
+<rect width="760" height="315" rx="19" fill="url(#bg)"/>
+<circle cx="652" cy="146" r="186" fill="url(#glow)"/>
+<path d="M0 245H760 M0 285H760 M540 0V315" stroke="#BB8EDC" opacity=".07" />
+<rect x="28" y="29" width="7" height="29" rx="3.5" fill="#EF6CBF"/>
+<text x="49" y="49" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2.4" fill="#EF6CBF">02 / DESKTOP SOFTWARE</text>
+<text x="32" y="112" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="800" fill="#FFFFFF">AikoGx Store</text>
+<text x="33" y="156" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" fill="#D2C9DD">A Windows home for games,</text>
+<text x="33" y="188" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" fill="#D2C9DD">updates and your library</text>
+<rect x="32" y="238" width="378" height="43" rx="21.5" fill="#281C37" stroke="#EF6CBF" stroke-opacity=".52"/>
+<circle cx="52" cy="259" r="5" fill="#EF6CBF"/><text x="67" y="265" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#E8D7F2">Official launcher · Windows</text>
+<g transform="translate(580 64)"><rect x="0" y="0" width="144" height="152" rx="19" fill="#21152E" stroke="#B46BFF" stroke-width="3"/><path d="M0 33H144" stroke="#B46BFF" stroke-width="3"/><circle cx="19" cy="16" r="5" fill="#FC76D8"/><circle cx="38" cy="16" r="5" fill="#C795F7"/><circle cx="57" cy="16" r="5" fill="#6C78ED"/><path d="M56 52L113 83L56 115Z" fill="#F65ED7"/></g>
+<rect x=".75" y=".75" width="758.5" height="313.5" rx="18.25" stroke="#8F649E" stroke-opacity=".42" stroke-width="1.5" fill="none"/>
+</svg>
