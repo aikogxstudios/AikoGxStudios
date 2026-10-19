@@ -67,13 +67,9 @@ A colorful independent fantasy game. Follow its development through studio updat
 
 ## / the toolbox
 
-<img alt="Unreal Engine" src="https://img.shields.io/badge/UNREAL_ENGINE-0E1128?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" />
-<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
-<img alt="Blueprints" src="https://img.shields.io/badge/BLUEPRINTS-2459A6?style=for-the-badge" />
-<img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" />
+<p>
+<img alt="Unreal Engine" src="https://img.shields.io/badge/UNREAL_ENGINE-0E1128?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" /> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" /> <img alt="Blueprints" src="https://img.shields.io/badge/BLUEPRINTS-2459A6?style=for-the-badge" /> <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" />
+</p>
 
 <details>
 <summary><strong>What happens beyond the public repositories?</strong></summary>
