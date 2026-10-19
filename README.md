@@ -1,46 +1,57 @@
-<!-- AikoGx Studios · GitHub profile · Minimal edition -->
+<!-- AikoGx Studios · GitHub profile · Clean minimal edition -->
 
 <p align="center">
   <img src="./assets/aikogx-hero.svg" width="100%" alt="AikoGx Studios — The moon inspires us. Code gives shape to our imagination." />
 </p>
 
-### About the studio
+<p align="center"><strong>The moon inspires us. Code gives shape to our imagination.</strong></p>
 
-**AikoGx Studios** is an independent software and game development studio where **engineering meets creativity**. We build websites, practical applications that simplify workflows, tools for creators and developers, and plugins for Unreal Engine. We also create indie games and explore AI-assisted technologies for developing, distributing and supporting software.
+## About
 
-Our mission is simple: **make useful technology accessible, intuitive and dependable.**
+**AikoGx Studios** is an independent creative and technology studio that combines **engineering and creativity**.
 
-### Featured work
+We create **websites**, **practical software for everyday workflows**, **tools for creators and developers**, **plugins for Unreal Engine**, and we are also part of the indie game development space.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/aikogxstudios/DungeonBlueprintForge-Docs">
-        <img src="./assets/dungeon-blueprint-forge.svg" alt="Dungeon Blueprint Forge" width="100%" />
-      </a>
-      <p>A modular, seed-based dungeon generation plugin for Unreal Engine 5.8. <a href="https://github.com/aikogxstudios/DungeonBlueprintForge-Docs">Public documentation ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://aikogx.es/">
-        <img src="./assets/chaos-among-realms.svg" alt="Chaos Among Realms: Reborn" width="100%" />
-      </a>
-      <p>An original fantasy action RPG, currently in development. <a href="https://aikogx.es/">Studio website ↗</a></p>
-    </td>
-  </tr>
-</table>
+We also explore **AI-supported development, distribution and support systems**.
 
-### Beyond the public projects
+Our mission is to build **useful technology** that feels **accessible, functional and thoughtfully crafted**.
 
-We explore **AI-assisted workflows**, desktop and web tools, and new approaches to digital experiences. We also work on **private client projects**, sharing details only when we have permission. Not everything we build is open source or publicly released.
+## What we do
 
-### How we build
+- Build websites and digital experiences
+- Create practical desktop and web software
+- Develop tools for creators and developers
+- Build plugins and technical systems for Unreal Engine
+- Develop indie games and interactive worlds
+- Explore AI-assisted workflows and product support
 
-Our approach combines **thoughtful design**, maintainable engineering, clear documentation and practical functionality. We aim for software that feels polished, solves real problems and stays easy to use.
+## Selected projects
 
-### Portfolio
+### Dungeon Blueprint Forge
+A modular, seed-based dungeon generation system for **Unreal Engine 5.8**.  
+Public documentation is available here:  
+[github.com/aikogxstudios/DungeonBlueprintForge-Docs](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs)
 
-*This space is reserved for selected websites, software, creative tools and client case studies. We'll add projects here as they become ready to share.*
+### Chaos Among Realms: Reborn
+A colorful fantasy **action RPG** currently in development.  
+More about the studio and future updates:  
+[aikogx.es](https://aikogx.es/)
+
+## Private work
+
+Some of our work is developed for **private use, internal tools or client projects**.  
+That means not everything we build is published as open source or shown publicly.
+
+## Portfolio
+
+*This section is reserved for future portfolio pieces, selected tools, websites, software projects and client work.*
+
+## Links
+
+- Website: [aikogx.es](https://aikogx.es/)
+- Support: [aikogx.es/support](https://aikogx.es/support/)
+- GitHub: [github.com/aikogxstudios](https://github.com/aikogxstudios)
 
 ---
 
-<sub>© AikoGx Studios · <a href="https://aikogx.es/">aikogx.es</a></sub>
+<sub>© AikoGx Studios</sub>
