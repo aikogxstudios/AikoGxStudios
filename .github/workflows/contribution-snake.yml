@@ -34,6 +34,8 @@ jobs:
           git pull --ff-only
           mkdir -p assets/contributions
           cp /tmp/aikogx-snake/*.svg assets/contributions/
+          cp /tmp/aikogx-snake/snake-dark.svg assets/contributions/calendar-dark.svg
+          cp /tmp/aikogx-snake/snake-light.svg assets/contributions/calendar-light.svg
           git add assets/contributions/
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
