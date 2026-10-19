@@ -42,9 +42,23 @@ More about the studio and future updates:
 Some of our work is developed for **private use, internal tools or client projects**.  
 That means not everything we build is published as open source or shown publicly.
 
-## Portfolio
+<!--
+  FUTURE WEB PORTFOLIO — AIKOGX STUDIOS
+  This section is intentionally hidden from the public profile.
 
-*This section is reserved for future portfolio pieces, selected tools, websites, software projects and client work.*
+  When website projects are ready to showcase:
+  1. Remove the surrounding HTML comment markers.
+  2. Replace the example entries with real, approved projects.
+  3. Include a short description and an official URL for each site.
+
+## Web portfolio
+
+### Project name
+Brief description of the website, technologies and the problem it solves.
+[View website](https://example.com/)
+
+  END FUTURE WEB PORTFOLIO
+-->
 
 ## Links
 
