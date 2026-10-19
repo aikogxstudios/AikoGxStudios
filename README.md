@@ -1,4 +1,4 @@
-<!-- AikoGx Studios · Terminal edition · Technology badges -->
+<!-- AikoGx Studios · Code workspace edition -->
 
 ```text
 $ aikogx --about
@@ -26,19 +26,26 @@ $ aikogx --about
 <img alt="Unreal Engine" src="https://img.shields.io/badge/UNREAL_ENGINE-0E1128?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" /> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" /> <img alt="Blueprints" src="https://img.shields.io/badge/BLUEPRINTS-2459A6?style=for-the-badge" /> <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" />
 </p>
 
-## / hello, world
+## `01` / hello_world.cpp
 
-We are **AikoGx Studios** — an independent studio connecting software development, creator tools and game development.
+```cpp
+namespace AikoGx {
 
-From a useful everyday tool to a procedural dungeon or a fantasy world, we build things that bring **engineering and creativity** together.
+    constexpr auto studio = "Engineering meets creativity";
+    constexpr auto build  = "Software, web & creator tools";
+    constexpr auto play   = "Unreal Engine & indie games";
+    constexpr auto next   = "Automation & AI-assisted workflows";
 
-## / selected projects
+} // Ideas become things you can use, build with, and play.
+```
+
+## `02` / projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Dungeon Blueprint Forge
+### `DungeonBlueprintForge`
 **Build worlds. Keep the seed.**
 
 <code>UNREAL ENGINE 5.8</code>  
@@ -53,8 +60,8 @@ A modular dungeon generator controlled through Blueprints, with reproducible lay
 </td>
 <td width="50%" valign="top">
 
-### Chaos Among Realms: Reborn
-**A world taking shape.**
+### `Chaos Among Realms`
+**Reborn · A world taking shape.**
 
 <code>FANTASY ACTION RPG</code>  
 <code>IN DEVELOPMENT</code>
@@ -72,7 +79,7 @@ A colorful independent fantasy game. Follow its development through studio updat
 
 
 <details>
-<summary><strong>What happens beyond the public repositories?</strong></summary>
+<summary><strong><code>// private_workspace</code></strong></summary>
 
 Our work also includes private software, internal tools and client projects. This GitHub profile shows the part we share publicly.
 
@@ -80,7 +87,7 @@ We explore AI-assisted workflows as part of the studio's development process. Pu
 
 </details>
 
-## / studio updates
+## `03` / changelog.md
 
 <!-- START:STUDIO_UPDATES -->
 - **04 Oct 2026** — Chaos Among Realms 0.0.5.9: UE5.8, a Reworked Abyss and What Comes Next
@@ -94,7 +101,7 @@ We explore AI-assisted workflows as part of the studio's development process. Pu
 
 <div align="center">
 
-**Useful tools. Imagined worlds. Work in progress.**
+`// Useful tools. Imagined worlds. Work in progress.`
 
 [aikogx.es ↗](https://aikogx.es/)
 
