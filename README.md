@@ -1,4 +1,4 @@
-<!-- AikoGx Studios · Terminal edition · Native text, no image widgets -->
+<!-- AikoGx Studios · Terminal edition · Technology badges -->
 
 ```text
 $ aikogx --about
@@ -18,7 +18,7 @@ $ aikogx --about
 
 **The moon inspires us. Code gives shape to our imagination.**
 
-[Website ↗](https://aikogx.es/) &nbsp; / &nbsp; [Projects](#-selected-projects) &nbsp; / &nbsp; [Updates](#-studio-updates) &nbsp; / &nbsp; [Support ↗](https://aikogx.es/support/)
+[aikogx.es ↗](https://aikogx.es/)
 
 </div>
 
@@ -45,7 +45,6 @@ A modular dungeon generator controlled through Blueprints, with reproducible lay
 **Current engine:** UE 5.8.3  
 **Public repository:** documentation
 
-[Read the guides →](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs)
 
 </td>
 <td width="50%" valign="top">
@@ -61,7 +60,6 @@ A colorful independent fantasy game. Follow its development through studio updat
 **Focus:** game & world development  
 **Public updates:** on the studio website
 
-[Explore the devlog →](https://aikogx.es/chaos-among-realms-059-ue58-reworked-abyss/)
 
 </td>
 </tr>
@@ -69,10 +67,13 @@ A colorful independent fantasy game. Follow its development through studio updat
 
 ## / the toolbox
 
-| Games & systems | Software & web | Automation & AI |
-| :--- | :--- | :--- |
-| Unreal Engine · C++ | Websites · Desktop tools | AI-assisted development |
-| Blueprints · Procedural generation | Tools for creators | Workflow automation |
+<img alt="Unreal Engine" src="https://img.shields.io/badge/UNREAL_ENGINE-0E1128?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" />
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+<img alt="Blueprints" src="https://img.shields.io/badge/BLUEPRINTS-2459A6?style=for-the-badge" />
+<img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" />
 
 <details>
 <summary><strong>What happens beyond the public repositories?</strong></summary>
@@ -86,9 +87,9 @@ We explore AI-assisted workflows as part of the studio's development process. Pu
 ## / studio updates
 
 <!-- START:STUDIO_UPDATES -->
-- **04 Oct 2026** — [Chaos Among Realms 0.0.5.9: UE5.8, a Reworked Abyss and What Comes Next](https://aikogx.es/chaos-among-realms-059-ue58-reworked-abyss/)
-- **23 Sep 2026** — [A More Flexible Dungeon Generator: Backtracking, Staged Builds and Prebuilt Rooms](https://aikogx.es/dungeon-generator-backtracking-staged-builds-prebuilt-rooms/)
-- **14 Sep 2026** — [Hotfix 0.0.5.8.2: Goodbye to the Ghost “Access Verified” Card](https://aikogx.es/hotfix-0-0-5-8-2-access-verified-card/)
+- **04 Oct 2026** — Chaos Among Realms 0.0.5.9: UE5.8, a Reworked Abyss and What Comes Next
+- **23 Sep 2026** — A More Flexible Dungeon Generator: Backtracking, Staged Builds and Prebuilt Rooms
+- **14 Sep 2026** — Hotfix 0.0.5.8.2: Goodbye to the Ghost “Access Verified” Card
 <!-- END:STUDIO_UPDATES -->
 
 <sub>Published news from aikogx.es · daily refresh configured through GitHub Actions.</sub>
@@ -99,7 +100,7 @@ We explore AI-assisted workflows as part of the studio's development process. Pu
 
 **Useful tools. Imagined worlds. Work in progress.**
 
-[Browse repositories](https://github.com/aikogxstudios?tab=repositories) &nbsp; · &nbsp; [Visit AikoGx](https://aikogx.es/) &nbsp; · &nbsp; [Get support](https://aikogx.es/support/)
+[aikogx.es ↗](https://aikogx.es/)
 
 <sub>© AikoGx Studios · Built with curiosity.</sub>
 
