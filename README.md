@@ -1,71 +1,37 @@
-<!-- AikoGx Studios · GitHub profile · Clean minimal edition -->
+<!-- AikoGx Studios · GitHub Code Hub -->
 
 <p align="center">
-  <img src="./assets/aikogx-hero.svg" width="100%" alt="AikoGx Studios — The moon inspires us. Code gives shape to our imagination." />
+  <img src="./assets/code-hub.svg" width="100%" alt="AikoGx Studios Code Hub — public GitHub statistics and contribution calendar, updated 19 October 2026." />
 </p>
 
-<p align="center"><strong>The moon inspires us. Code gives shape to our imagination.</strong></p>
+<p align="center">
+  <a href="https://aikogx.es/"><strong>Website ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://aikogx.es/support/"><strong>Support ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://github.com/aikogxstudios?tab=repositories"><strong>Repositories ↗</strong></a>
+</p>
 
-## About
+## Engineering meets imagination
 
-**AikoGx Studios** is an independent creative and technology studio that combines **engineering and creativity**.
+**AikoGx Studios** is an independent creative and technology studio. We build **websites**, **practical desktop and web software**, **tools for creators and developers**, **Unreal Engine plugins**, and **indie games**.
 
-We create **websites**, **practical software for everyday workflows**, **tools for creators and developers**, **plugins for Unreal Engine**, and we are also part of the indie game development space.
-
-We also explore **AI-supported development, distribution and support systems**.
-
-Our mission is to build **useful technology** that feels **accessible, functional and thoughtfully crafted**.
-
-## What we do
-
-- Build websites and digital experiences
-- Create practical desktop and web software
-- Develop tools for creators and developers
-- Build plugins and technical systems for Unreal Engine
-- Develop indie games and interactive worlds
-- Explore AI-assisted workflows and product support
+We also explore **AI-assisted development, distribution and support systems** — always with a focus on useful, accessible and thoughtfully crafted technology.
 
 ## Selected projects
 
-### Dungeon Blueprint Forge
-A modular, seed-based dungeon generation system for **Unreal Engine 5.8**.  
-Public documentation is available here:  
-[github.com/aikogxstudios/DungeonBlueprintForge-Docs](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs)
+| Dungeon Blueprint Forge | Chaos Among Realms: Reborn |
+| :--- | :--- |
+| **UNREAL ENGINE · CREATOR TOOLS** | **INDIE GAME · IN DEVELOPMENT** |
+| A modular, seed-based dungeon generation system for **Unreal Engine 5.8**. | A colorful fantasy **action RPG**, with an independent world in the making. |
+| [Explore the documentation ↗](https://github.com/aikogxstudios/DungeonBlueprintForge-Docs) | [Discover the game and studio ↗](https://aikogx.es/) |
 
-### Chaos Among Realms: Reborn
-A colorful fantasy **action RPG** currently in development.  
-More about the studio and future updates:  
-[aikogx.es](https://aikogx.es/)
+## Behind the scenes
 
-## Private work
+Some of our work is built for **private use, internal tools or client projects**, so this public profile shows only part of what we create.
 
-Some of our work is developed for **private use, internal tools or client projects**.  
-That means not everything we build is published as open source or shown publicly.
+<sub>The dashboard above is a dated snapshot of public GitHub data, updated on **19 October 2026**. Technology labels describe our work; they are not repository language percentages.</sub>
 
-<!--
-  FUTURE WEB PORTFOLIO — AIKOGX STUDIOS
-  This section is intentionally hidden from the public profile.
-
-  When website projects are ready to showcase:
-  1. Remove the surrounding HTML comment markers.
-  2. Replace the example entries with real, approved projects.
-  3. Include a short description and an official URL for each site.
-
-## Web portfolio
-
-### Project name
-Brief description of the website, technologies and the problem it solves.
-[View website](https://example.com/)
-
-  END FUTURE WEB PORTFOLIO
--->
-
-## Links
-
-- Website: [aikogx.es](https://aikogx.es/)
-- Support: [aikogx.es/support](https://aikogx.es/support/)
-- GitHub: [github.com/aikogxstudios](https://github.com/aikogxstudios)
+<!-- Future web portfolio: add only real, approved projects and official URLs. -->
 
 ---
 
-<sub>© AikoGx Studios</sub>
+<p align="center"><sub>THE MOON INSPIRES US. WE BUILD WHAT COMES NEXT.<br>© AikoGx Studios</sub></p>
