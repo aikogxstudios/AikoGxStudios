@@ -55,7 +55,7 @@ namespace AikoGx {
 
 ## `02` / projects
 
-<p>
+<p align="center">
 <img alt="Unreal Engine tool" src="https://img.shields.io/badge/Dungeon_Blueprint_Forge-Unreal_Engine_Tool-7851A9?style=flat-square&amp;logo=unrealengine&amp;logoColor=white" />
 <img alt="Chaos Among Realms in development" src="https://img.shields.io/badge/Chaos_Among_Realms-In_Development-0891B2?style=flat-square" />
 </p>
