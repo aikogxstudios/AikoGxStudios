@@ -38,8 +38,6 @@ namespace AikoGx {
 } // Ideas become things you can use, build with, and play.
 ```
 
-### `contributions.snake`
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/snake-light.svg" />
