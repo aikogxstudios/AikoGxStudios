@@ -1,8 +1,8 @@
 <!-- AikoGx Studios · GitHub Code Hub -->
 
-<p align="center">
-  <img src="./assets/code-hub.svg" width="100%" alt="AikoGx Studios Code Hub — public GitHub statistics and contribution calendar, updated 19 October 2026." />
-</p>
+# AikoGx Studios
+
+**The moon inspires us. Code gives shape to our imagination.**
 
 <p align="center">
   <a href="https://aikogx.es/"><strong>Website ↗</strong></a> &nbsp; · &nbsp;
@@ -27,8 +27,6 @@ We also explore **AI-assisted development, distribution and support systems** �
 ## Behind the scenes
 
 Some of our work is built for **private use, internal tools or client projects**, so this public profile shows only part of what we create.
-
-<sub>The dashboard above is a dated snapshot of public GitHub data, updated on **19 October 2026**. Technology labels describe our work; they are not repository language percentages.</sub>
 
 <!-- Future web portfolio: add only real, approved projects and official URLs. -->
 
