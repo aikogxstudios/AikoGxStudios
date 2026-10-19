@@ -18,11 +18,10 @@ $ aikogx --about
 
 **The moon inspires us. Code gives shape to our imagination.**
 
-[aikogx.es ↗](https://aikogx.es/)
 
 </div>
 
-<p>
+<p align="center">
 <img alt="Unreal Engine" src="https://img.shields.io/badge/UNREAL_ENGINE-0E1128?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" /> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" /> <img alt="Blueprints" src="https://img.shields.io/badge/BLUEPRINTS-2459A6?style=for-the-badge" /> <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" />
 </p>
 
@@ -103,7 +102,6 @@ We explore AI-assisted workflows as part of the studio's development process. Pu
 
 `// Useful tools. Imagined worlds. Work in progress.`
 
-[aikogx.es ↗](https://aikogx.es/)
 
 <sub>© AikoGx Studios · Built with curiosity.</sub>
 
