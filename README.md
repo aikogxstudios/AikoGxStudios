@@ -22,7 +22,9 @@ $ aikogx --about
 </div>
 
 <p align="center">
-<img alt="Unreal Engine" src="https://img.shields.io/badge/UNREAL_ENGINE-0E1128?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" /> <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" /> <img alt="Blueprints" src="https://img.shields.io/badge/BLUEPRINTS-2459A6?style=for-the-badge" /> <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" />
+<img alt="Unreal Engine" src="https://img.shields.io/badge/UNREAL_ENGINE-0E1128?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" /> <img alt="Blueprints" src="https://img.shields.io/badge/BLUEPRINTS-2459A6?style=for-the-badge" />
+<br />
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </p>
 
 ## `01` / hello_world.cpp
@@ -30,12 +32,11 @@ $ aikogx --about
 ```cpp
 namespace AikoGx {
 
-    constexpr auto studio = "Engineering meets creativity";
-    constexpr auto build  = "Software, web & creator tools";
-    constexpr auto play   = "Unreal Engine & indie games";
-    constexpr auto next   = "Automation & AI-assisted workflows";
+    constexpr auto focus = "Creator tools & independent games";
+    constexpr auto craft = "Modular systems. Practical software.";
+    constexpr auto lab   = "Automation & AI-assisted workflows";
 
-} // Ideas become things you can use, build with, and play.
+} // Engineering meets creativity.
 ```
 
 ### `code_activity`
@@ -45,15 +46,6 @@ namespace AikoGx {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/calendar-light.svg" />
   <img alt="Animated snake following AikoGx Studios' real GitHub contributions" src="https://raw.githubusercontent.com/aikogxstudios/AikoGxStudios/main/assets/contributions/calendar-dark.svg" width="100%" />
 </picture>
-
-
-
-```cpp
-// Currently building
-// Unreal tools  -> Dungeon Blueprint Forge
-// Indie game    -> Chaos Among Realms: Reborn
-// Experiments   -> Software & AI workflows
-```
 
 ## `02` / projects
 
@@ -81,8 +73,6 @@ $ aikogx --projects
    STATUS     In development
    WORLD      Colorful fantasy
    STUDIO     AikoGx Studios
-
-   > Tools to create. Worlds to explore.
 ```
 
 <details>
@@ -130,8 +120,6 @@ END WEB_PORTFOLIO -->
 ---
 
 <div align="center">
-
-`// Useful tools. Imagined worlds. Work in progress.`
 
 
 <sub>© AikoGx Studios · Built with curiosity.</sub>
